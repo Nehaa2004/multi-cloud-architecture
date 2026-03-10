@@ -35,3 +35,9 @@ sudo apt update
 sudo apt install apache2 -y
 sudo systemctl start apache2
 sudo systemctl enable apache2
+<h1>Multi Cloud Architecture Demo</h1>
+<p>AWS EC2 + Cloudflare DNS</p>
+
+output
+
+
