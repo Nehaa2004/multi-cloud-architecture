@@ -29,3 +29,9 @@ Cloudflare acts as an intermediary layer between users and the server. It provid
 Finally, I tested the implementation by accessing the website through the configured domain. The request was routed through Cloudflare and successfully delivered to the AWS EC2 server hosting the web application. This confirmed that the multi-cloud architecture was functioning correctly.
 
 Through this task, I learned how different cloud platforms can be integrated to build a more flexible and reliable infrastructure. This experience also helped me understand the practical benefits of multi-cloud architecture in real-world cloud computing environments.
+
+#commands
+sudo apt update
+sudo apt install apache2 -y
+sudo systemctl start apache2
+sudo systemctl enable apache2
