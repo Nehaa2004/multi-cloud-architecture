@@ -39,5 +39,15 @@ sudo systemctl enable apache2
 <p>AWS EC2 + Cloudflare DNS</p>
 
 output
+<img width="1881" height="913" alt="Image" src="https://github.com/user-attachments/assets/bb3f6476-1e74-4e9e-8bf3-68bb0916e23f" />
 
+<img width="1882" height="797" alt="Image" src="https://github.com/user-attachments/assets/901f5f3f-0a08-4b39-9b4e-1a6c25e8e6cf" />
+
+<img width="1587" height="948" alt="Image" src="https://github.com/user-attachments/assets/664bd837-868c-4347-9689-4dc4e7bd0f4b" />
+
+<img width="1268" height="638" alt="Image" src="https://github.com/user-attachments/assets/48ca0065-67cd-4bf6-b452-548a8290db60" />
+
+<img width="807" height="506" alt="Image" src="https://github.com/user-attachments/assets/6aaec836-5bac-41d4-9ced-3b8705f10a9d" />
+
+<img width="807" height="506" alt="Image" src="https://github.com/user-attachments/assets/8ede8322-cc18-4894-b6d0-f3ba4a96d5b1" />
 
